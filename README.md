@@ -1,4 +1,5 @@
-# Finance-Complaint
+### Overview
+Developed a machine learning solution to analyze complaints registered against financial products from the Consumer Complaint Database. Leveraged PySpark and PySpark ML for distributed data processing and model training. Implemented an end-to-end data pipeline using Apache Airflow for scheduling and orchestration, with MongoDB as the data store. Deployed the solution on Google Cloud Platform, utilizing Compute Engine instances, S3 buckets, and Artifact Registry. Implemented comprehensive monitoring and observability with Grafana, Prometheus, Node Exporter, Promtail, and Loki for dashboarding, metrics collection, and log management.
 
 ### Problem Statement
 
